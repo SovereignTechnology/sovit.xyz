@@ -5,7 +5,8 @@
 Website: https://www.sovit.xyz/
 Email: services@sovit.xyz
 Tor: http://sovit7eqfkczjlcuwi5wqfjff4pv2fp7w5v26desexg2yc5oj36lriqd.onion
-GitHub: https://github.com/sovitxyz
+GitHub: https://github.com/SovereignTechnology
+Nostr: https://ditto.pub/npub1s0vtechh66tx7vrwdud8zfyheu9zca7swwfrzd4qu2a4f93mxs6qvn9adx (SovereignTechnology@sovtech.pro)
 GitLab: https://sovit.xyz/gitlab/
 Git (Nostr/NIP-34): https://git.sovit.xyz
 Git (Nostr/NIP-34): https://git.sovtech.pro
@@ -154,7 +155,7 @@ Need a different arrangement? Custom license releases are available for an addit
 
 Principles: Freedom, Transparency, Copyleft
 
-Source code: https://github.com/sovitxyz
+Source code: https://github.com/SovereignTechnology
 Mirrors: https://sovit.xyz/gitlab/ · https://git.sovit.xyz · https://git.sovtech.pro
 
 ---
